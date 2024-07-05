@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @TonyAldervall
-- 👀 I'm interested in Gaming, Bouldering, Programming, Music.
+- 👀 I'm interested in Gaming, Indoor Bouldering, Programming, Music.
 - 🌱 I'm currently studying Java-Development at IT-Högskolan in Stockholm.
-- 🌱 On my own time I'm also learning C++ Game Programming with SFML and a little bit of C# in Unity. 
+- 🌱 On my own time I'm also learning Docker.
 - 📫 You can contact me via email: tonyaldervall02@gmail.com
