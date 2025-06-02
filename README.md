@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @TonyAldervall
 - 👀 I'm interested in Gaming, Indoor Bouldering, Programming, Music.
-- 🌱 I'm currently studying Java-Development at IT-Högskolan in Stockholm.
-- 🌱 On my own time I'm also learning PyTorch for Deep Learning & Machine Learning with the goal of creating my own GPT, just for fun.
+- 🌱 I have recently completed my Java Development exams at IT-Högskolan in Stockholm.
 - 📫 You can contact me via email: tonyaldervall02@gmail.com
