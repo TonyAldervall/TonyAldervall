@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @TonyAldervall
 - 👀 I'm interested in Gaming, Indoor Bouldering, Programming, Music.
 - 🌱 I have recently completed my Java Development exam at IT-Högskolan in Stockholm.
-- 🌱 Currently interning as a fullstack developer using C# and Angular.
+- 🌱 Currently studying at Lexicon as a C# developer.
 - 📫 You can contact me via email: tonyaldervall02@gmail.com
